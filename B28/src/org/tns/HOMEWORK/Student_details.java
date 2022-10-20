@@ -1,3 +1,5 @@
+//to read student details and calculate average
+
 package org.tns.HOMEWORK;
 import java.util.Scanner;
 public class Student_details {
